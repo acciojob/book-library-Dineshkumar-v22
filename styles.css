@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+h1 {
+	background-color:#f8f8f8;
+	text-align: center;
+}
+.book{
+	background-color:#f8f8f8;
+}
+.author{
+	font-color:#777777;
+}
+img {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+	
+}
+.price{
+	text-align: center;
+	background-color:#2ecc71;
+}
