@@ -1,22 +1,36 @@
 /*  your css code here. If applicable */
-h1 {
+body{
 	background-color:#f8f8f8;
-	text-align: center;
+	text-align:center;
 }
-.book{
-	background-color:#f8f8f8;
+.book-library{
+	background-color:#ffffff;
+	box-sizing:border-box;
+	box-shadow:1px 1px 1px 1px gray;
+ 
 }
-.author{
-	font-color:#777777;
+ 
+h2{
+	text-align:left;
+	margin-left:5%;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:0px;
 }
-img {
-	 display: block;
-  margin-left: auto;
-  margin-right: auto;
-
+.author-name{
+	color:#777777;
+	text-align:left;
+	margin-left:5%;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+}
+.price-block{
+	vox-sizing:border-box;
+	background-color:rgb(46, 204, 113);
+	color:rgb(255,255,255);
+	max-width:90%;
+	margin-left:5%;
+	margin-bottom:10px;
 	
-}
-.price{
-	text-align: center;
-	background-color:#2ecc71;
 }
